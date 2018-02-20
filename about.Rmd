@@ -2,4 +2,16 @@
 title: "About This Website"
 ---
 
-More about this website.
+##This is Kristen's Website
+This website is Kristen's website for the course Data Science 1. 
+
+Here is a picture of Kristen's cats:
+
+<figure>
+<figcaption> Kristen's Cats </figcaption>
+<img src="../images/Cats.jpeg" alt="Cats" align="left" hspace="20" style="width:85px;height:100px;">
+</figure>
+
+
+![](http://example.com/logo.png)
+
