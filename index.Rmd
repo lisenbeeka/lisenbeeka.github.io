@@ -6,7 +6,7 @@ This is a website. You can do many useful things with a website; for example, yo
 
 
 
-```{r}
+```{r echo = FALSE}
 x <- 1:10
 y <- 20:29
 plot(x,y)
