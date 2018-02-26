@@ -1,6 +1,18 @@
 ---
-title: "Some Links"
+title: "Miscellaneous links and videos"
 ---
 
-Here are some links that may be useful:
 
+<a href="https://www.thepcmanwebsite.com/aff_game_list.shtml">Flash Games</a>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIE2Alm7g3o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JUdgmLxtfLM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8WoqKohXEDE?list=PLsXbcWIxYGOF6iBM2BxkAHZlUWz_90olH" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
